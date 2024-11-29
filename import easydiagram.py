@@ -1,0 +1,2 @@
+import easydiagram
+easydiagram.scatterdiagram()
