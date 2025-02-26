@@ -1,2 +1,2 @@
 # easydiagram
-A simple and easy library for drawing diagrams
+A library on python to draw diagrams
